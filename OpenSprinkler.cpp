@@ -25,6 +25,9 @@
 #include "server.h"
 #include "gpio.h"
 #include "testmode.h"
+#include "Arduino.h"
+
+
 
 /** Declare static data members */
 NVConData OpenSprinkler::nvdata;
